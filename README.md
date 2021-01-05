@@ -8,7 +8,7 @@ This place is our platform for the NL Design System community to develop new pat
 
 Issues should remain open as long as they remain relevant for the project. This way it is possible to assign maintainers for every feature. Bug reports and other implementation specific tasks are best opened and discussed in the repository where the code is maintained, for example in [nl-design-system/web-component-poc](https://github.com/nl-design-system/web-component-poc).
 
-Join us on Slack via the invite form on [codefor.nl](https://codefor.nl) in the following channels:
+Join us on Slack via the invite form on [praatmee.codefor.nl](https://praatmee.codefor.nl) in the following channels:
 
 - `#nl-design-system`
 - `#nl-design-system-content`
